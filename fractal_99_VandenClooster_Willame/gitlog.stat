@@ -1,0 +1,28 @@
+commit 5260d09b7e47c91388c6a2b0777b3b0f81368893
+Author: Antoine <antoine.vandenclooster@student.uclouvain.be>
+Date:   Fri May 11 00:21:39 2018 +0200
+
+    Premier ajout
+
+ project_2018_template/Makefile                |  21 ++
+ project_2018_template/fract1                  |   1 +
+ project_2018_template/libfractal/Makefile     |  15 +
+ project_2018_template/libfractal/fractal.c    |  67 ++++
+ project_2018_template/libfractal/fractal.h    | 120 +++++++
+ project_2018_template/libfractal/fractal.o    | Bin 0 -> 6560 bytes
+ project_2018_template/libfractal/libfractal.a | Bin 0 -> 25474 bytes
+ project_2018_template/libfractal/tools.c      | 281 +++++++++++++++
+ project_2018_template/libfractal/tools.o      | Bin 0 -> 18416 bytes
+ project_2018_template/main                    | Bin 0 -> 35984 bytes
+ project_2018_template/main.c                  | 500 ++++++++++++++++++++++++++
+ project_2018_template/main.o                  | Bin 0 -> 38184 bytes
+ 12 files changed, 1005 insertions(+)
+
+commit 24f42a9b5be1daa0a00d47995bb0f65f7fc07ba4
+Author: avdclooster <38433106+avdclooster@users.noreply.github.com>
+Date:   Fri May 11 00:13:50 2018 +0200
+
+    Initial commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
